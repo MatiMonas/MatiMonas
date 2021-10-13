@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Matías Monastirsky</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 🤝I believe that teamwork is the key to success, we can all learn from one another. I love to share ideas and I also love to help when someone has a problem that they don't know how to solve. (And in case I don't know it, we can find the answer together)
 
