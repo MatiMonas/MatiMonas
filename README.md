@@ -5,14 +5,7 @@
 
 🤝I believe that teamwork is the key to success, we can all learn from one another. I love to share ideas and I also love to help when someone has a problem that they don't know how to solve. (And in case I don't know it, we can find the answer together)
 
-
-🎨I love frontend development, i'm passionate about designing friendly interfaces for the user. I pay a lot of attention to little details because I believe they make the difference.
-
-
-CONTACT ME!📲
-If you would like to know more about me feel free to send me a message at matimonas97@gmail.com! 🤗📧
-
-Have a good day!✨
+I love to challenge myself and solve problems. And that's something that in programming I have to do constantly simply by nature.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
