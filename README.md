@@ -17,4 +17,4 @@ I love to challenge myself and solve problems. And that's something that in prog
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matimonas&show_icons=true&locale=en" alt="matimonas" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matimonas)](https://github.com/anuraghazra/github-readme-stats)
+
